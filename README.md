@@ -1,0 +1,1 @@
+# This is React appwrite full stack
